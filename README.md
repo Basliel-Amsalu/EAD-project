@@ -12,8 +12,8 @@ The employee management project is a web application that enables users to manag
 
 ## To get started with these projects, follow these steps:
 
-Clone the repository by running the command: git clone https://github.com/Basliel-Amsalu/EAD-project.git
-Open the project in your preferred Java IDE.
-If necessary, configure the database connection settings in the project configuration files.
-Build and deploy the project on a local servlet container like Apache Tomcat.
-Access the project in your web browser using the appropriate URL.
+ 1. Clone the repository by running the command: git clone https://github.com/Basliel-Amsalu/EAD-project.git
+ 2. Open the project in your preferred Java IDE.
+ 3. If necessary, configure the database connection settings in the project configuration files.
+ 4. Build and deploy the project on a local servlet container like Apache Tomcat.
+ 5. Access the project in your web browser using the appropriate URL.
